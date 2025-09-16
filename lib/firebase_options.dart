@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   // Firebase configuration for kickboxing-management project
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q',
+    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBxxx_mHL-Q',
     appId: '1:32797639221:web:your-web-app-id', // Add web app to Firebase to get this
     messagingSenderId: '32797639221',
     projectId: 'kickboxing-management',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q',
+    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzxxxeBVHC_mHL-Q',
     appId: '1:32797639221:android:f17e2c9b132d8a7f72e77c',
     messagingSenderId: '32797639221',
     projectId: 'kickboxing-management',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q',
+    apiKey: 'AIzaSyB_k4-SXjh_aWQsxxxVzFWPeBVHC_mHL-Q',
     appId: '1:32797639221:ios:your-ios-app-id', // Add iOS app to Firebase to get this
     messagingSenderId: '32797639221',
     projectId: 'kickboxing-management',
@@ -69,7 +69,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q',
+    apiKey: 'AIzaSyB_k4-SXjh_axxxWOOVzFWPeBVHC_mHL-Q',
     appId: '1:32797639221:ios:your-macos-app-id', // Add macOS app to Firebase to get this
     messagingSenderId: '32797639221',
     projectId: 'kickboxing-management',
@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q',
+    apiKey: 'AIzaSyB_k4-SXjh_aWQsWxxxzFWPeBVHC_mHL-Q',
     appId: '1:32797639221:windows:your-windows-app-id', // Add Windows app to Firebase to get this
     messagingSenderId: '32797639221',
     projectId: 'kickboxing-management',
