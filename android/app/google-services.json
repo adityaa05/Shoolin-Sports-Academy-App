@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32797639221",
+    "project_id": "kickboxing-management",
+    "storage_bucket": "kickboxing-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32797639221:android:f17e2c9b132d8a7f72e77c",
+        "android_client_info": {
+          "package_name": "com.example.new_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_k4-SXjh_aWQsWOOVzFWPeBVHC_mHL-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
